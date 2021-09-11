@@ -1,0 +1,4 @@
+/home/porcho/IdeaProjects/ms-library/infrastructure/src/main/java/org/example/adapters/BookJpaAdapter.java
+/home/porcho/IdeaProjects/ms-library/infrastructure/src/main/java/org/example/repository/BookRepository.java
+/home/porcho/IdeaProjects/ms-library/infrastructure/src/main/java/org/example/entity/Book.java
+/home/porcho/IdeaProjects/ms-library/infrastructure/src/main/java/org/example/mappers/BookMapper.java

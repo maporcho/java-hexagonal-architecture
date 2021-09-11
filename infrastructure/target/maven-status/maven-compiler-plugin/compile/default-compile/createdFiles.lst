@@ -1,0 +1,5 @@
+org/example/entity/Book$BookBuilder.class
+org/example/adapters/BookJpaAdapter.class
+org/example/entity/Book.class
+org/example/repository/BookRepository.class
+org/example/mappers/BookMapper.class
