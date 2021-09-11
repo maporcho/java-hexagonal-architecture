@@ -1,0 +1,5 @@
+org/example/service/BookServiceImpl.class
+org/example/ports/spi/BookPersistencePort.class
+org/example/data/BookDto$BookDtoBuilder.class
+org/example/ports/api/BookServicePort.class
+org/example/data/BookDto.class

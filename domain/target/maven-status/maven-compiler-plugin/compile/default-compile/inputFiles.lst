@@ -1,0 +1,4 @@
+/home/porcho/IdeaProjects/ms-library/domain/src/main/java/org/example/data/BookDto.java
+/home/porcho/IdeaProjects/ms-library/domain/src/main/java/org/example/ports/api/BookServicePort.java
+/home/porcho/IdeaProjects/ms-library/domain/src/main/java/org/example/ports/spi/BookPersistencePort.java
+/home/porcho/IdeaProjects/ms-library/domain/src/main/java/org/example/service/BookServiceImpl.java
